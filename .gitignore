@@ -1,0 +1,13 @@
+# RStudio user-specific files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# renv cache (keep lock/settings only)
+renv/library/
+renv/staging/
+
+# OS-specific
+.DS_Store
+Thumbs.db
